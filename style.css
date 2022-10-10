@@ -1,0 +1,45 @@
+img{
+	border-radius: 50%;
+  size:50px;
+}
+body{
+  background-color: lightblue;
+  text-align: center;
+}
+.logo{
+  width:150px;
+  height:150px;
+  position: absolute;
+ right:0;
+}
+hr{
+	border:2px solid black;
+	width:80%;
+	text-align: left;
+}
+h1
+{
+  color: black;
+  text-align: center;
+}
+h4{
+  padding-left: 40px;
+}
+p{
+  font-family: verdana;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+	position: relative;
+	margin-left: auto;
+	margin-right:auto;
+
+}
+center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.list{
+	text-align: center;
+}
